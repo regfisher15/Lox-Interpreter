@@ -48,7 +48,7 @@ To run the repl option for the code, first make sure that you change your direct
 
 Once you enter these commands in, you can type lox code into the terminal and hit enter to submit them. The program will continue to ask you for code until you kill the program. You can kill the program by typing CTRL + C. An example of the repl option is given in the image below.
 
-
+![BYTECODE REPL EXAMPLE](https://github.com/regfisher15/Lox-Interpreter/assets/168298464/b186035e-e68b-4a94-98a6-f82bb6b8f47c)
 
 **THE SOURCE CODE OPTION:**
 
