@@ -48,7 +48,7 @@ To run the repl option for the code, first make sure that you change your direct
 
 Once you enter these commands in, you can type lox code into the terminal and hit enter to submit them. The program will continue to ask you for code until you kill the program. You can kill the program by typing CTRL + C. An example of the repl option is given in the image below.
 
-![BYTECODE REPL EXAMPLE](https://github.com/regfisher15/Lox-Interpreter/assets/168298464/b186035e-e68b-4a94-98a6-f82bb6b8f47c)
+![Screenshot (10)](https://github.com/regfisher15/Lox-Interpreter/assets/168298464/41b08d0e-819f-4b2c-a632-757c29efa811)
 
 **THE SOURCE CODE OPTION:**
 
@@ -64,6 +64,7 @@ To run the source code option for the code, first make sure that you change your
 
 Once you have entered in these commands, the program will automatically compile and run your code and the results will be displayed on the screen. If you would like to enter in new code, simply edit the “Code.txt” file and enter the same commands once again. An example of the source code option is given in the image below.
 
+![Screenshot (11)](https://github.com/regfisher15/Lox-Interpreter/assets/168298464/a058d813-3aa1-4539-b030-94e962c9523b)
 
 
 There is another README file found in the “Interpreter” folder if you would like to view it as you work with the code. That’s all, happy coding 😊
